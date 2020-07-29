@@ -1,0 +1,12 @@
+/* These CSS settings will gurantee that the map covers the whole page */
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#logoMap {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
